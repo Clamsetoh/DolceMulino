@@ -1,0 +1,21 @@
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+  background-color: blanchedalmond;
+}
+
+#pagina {
+    position: relative;
+    min-height: 100%;
+  }
+
+#contenido {
+    padding-bottom:50px; /* este valor debe ser igual o mayor al alto del pie */
+  }
+  
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
