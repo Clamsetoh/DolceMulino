@@ -1,0 +1,16 @@
+[
+  {
+    "Nombre": "Cannoli",
+    "Categoria": "Postre",
+    "FOTO": "https://images.hola.com/imagenes/cocina/recetas/20220224205246/cannonli-pistachos-chocolate/1-55-149/cannoli-adobe-m.jpg",
+    "Sabor": "{[Chips de Chocolate, Naranja Caramelizado, Pistacho, Vainilla]}",
+    "Tamaño": "{[Pequeño, Mediano]}",
+    "Precio": [
+      {
+        "Peq": "20.000",
+        "Med": "32.000"
+      }
+    ],
+    "Cantidad": "30"
+  }
+]
