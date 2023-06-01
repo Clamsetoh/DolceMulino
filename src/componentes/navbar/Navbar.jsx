@@ -15,7 +15,7 @@ function Navbar() {
       <NavContainer>
         <a href=""><img src="../src\assets\Img\CintaDolce.png" alt="DolceLogo"/></a>
         <div className={`links ${clicked ? 'active' : ''}`}>
-          <a onClick={handleClick} href="1">Inicio</a>
+          <a onClick={handleClick} href="">Inicio</a>
           <a onClick={handleClick} href="2">Menu</a>
           <a onClick={handleClick} href="3">Nosotros</a>
           <a onClick={handleClick} href="4">Contacto</a>
