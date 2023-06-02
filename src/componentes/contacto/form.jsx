@@ -1,7 +1,4 @@
 import { useState } from "react";
-import email from '../../assets/Img/email.png';
-import llamada from '../../assets/Img/llamada.png';
-import tienda from '../../assets/Img/tienda.png';
 import './form.modul.css'
 
 const Form = () => {
