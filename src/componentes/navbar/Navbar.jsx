@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 import BurguerButton from './BurguerButton'
 
+
 function Navbar() {
 
   const [clicked, setClicked] = useState(false)

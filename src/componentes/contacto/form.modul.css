@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+Form{
+    color: blueviolet;
+    text-align: center;
+    padding: 5%;
+    font-family: 'Handlee', cursive;
+}
+h1{
+    color: chocolate;
+}
+input{
+    margin: 10px;
+    width: 60%;
+    border: groove;
+    padding: 10px;
+    font-family: 'Handlee', cursive;
+}
+input.men{
+    text-align: center;
+    padding: 50px;
+    width: 53%;
+    
+}
+button{
+    border: none;
+    color: aliceblue;
+    background-color: chocolate;
+    padding: 14px 28px;
+    font-size: 16px;
+    font-family: 'Handlee', cursive;
+}
+img{
+    margin-left: 16%;
+    margin-top: 3%;
+
+}
